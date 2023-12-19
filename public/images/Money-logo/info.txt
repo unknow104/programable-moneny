@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Aileron-SemiBold
+font link: http://dotcolon.net/font/aileron/
+font author: dot colon
+font author site: http://dotcolon.net/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: Kyle Tezak
+icon designer link: /kyletezak
+        
+{"bg-gradient-0":"#8D2CE3","bg-gradient-1":"#F7C6F6","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
